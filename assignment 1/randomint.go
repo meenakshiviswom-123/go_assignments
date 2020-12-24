@@ -14,4 +14,5 @@ func main() {
 	fmt.Println("Random Number 1: ", res_1)
 	fmt.Println("Random Number 2: ", res_2)
 	fmt.Println("Random Number 3: ", res_3)
+
 }
